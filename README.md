@@ -32,7 +32,3 @@
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>&nbsp;
 </div>
 
-
-<p align="center">
-  <img src="https://media.tenor.com/heBl6UHvYLQAAAAd/cyberchase-cyberspace.gif" alt="Cyberspace" width="400"/>
-</p>
