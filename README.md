@@ -1,40 +1,37 @@
 <h1 align="center">Hello, I'm DeathMayCry! 👾</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=D3athMayCry&color=yellow" alt="Profile views" /> 
+  <img src="https://komarev.com/ghpvc/?username=D3athMayCry&color=yellow" alt="Profile views" />
 </p>
 
 <p align="center">
   <em>Developer, Security Researcher, Reverse Engineer, and AppSec Enthusiast.</em>
 </p>
 
----
 
-## 🌐 &nbsp;Social Links
+## 🌐 &nbsp;Connect with Me
 
-<p align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/johnathan-frabetti-hacking/" target="_blank">
-    <img src="https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.youtube.com/@0xor" target="_blank">
     <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
-</p>
+</div>
 
----
 
 ## 🛠 &nbsp;Tech Stack
 
-<p align="center">
+<div align="center">
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>&nbsp;
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>&nbsp;
   <img src="https://img.shields.io/badge/Shell_Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script"/>&nbsp;
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>&nbsp;
   <img src="https://img.shields.io/badge/Assembly-%23A0A0A0.svg?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembly"/>&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>&nbsp;
-</p>
+</div>
 
----
 
 <p align="center">
   <img src="https://media.tenor.com/heBl6UHvYLQAAAAd/cyberchase-cyberspace.gif" alt="Cyberspace" width="400"/>
