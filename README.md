@@ -8,6 +8,7 @@
   <em>Developer, Security Researcher, Reverse Engineer, and AppSec Enthusiast.</em>
 </p>
 
+---
 
 ## 🌐 &nbsp;Connect with Me
 
@@ -18,8 +19,12 @@
   <a href="https://www.youtube.com/@0xor" target="_blank">
     <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
+  <a href="https://discord.com/users/996858314396815420" target="_blank">
+    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
 </div>
 
+---
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -32,3 +37,8 @@
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>&nbsp;
 </div>
 
+---
+
+<p align="center">
+  <img src="https://media.tenor.com/heBl6UHvYLQAAAAd/cyberchase-cyberspace.gif" alt="Cyberspace" width="400"/>
+</p>
