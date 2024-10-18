@@ -1,35 +1,41 @@
-<h1 align="left">Hello, I'm Johnathan Frabetti!</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xC03LH0&color=yellow" alt="Profile views" /> </p>
+<h1 align="center">Hello, I'm DeathMayCry! 👾</h1>
 
-- Developer and Security Researcher.
-
-- Pentester & Reverse engineer.
-
-- CTF Player
-
-## 🛠 &nbsp;Social Links
-
-<p align="center" style="background:yellow">
-<a href="https://bit.ly/3PfRBFg" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Tryhackme-05122A?style=flat&logo=tryhackme" alt="TryHackme"/>
-</a>
-<a href="https://bit.ly/3Pbv1xt" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Hackthebox-05122A?style=flat&logo=hackthebox" alt="Hack-The-Box"/>
-</a>
-<a href="https://www.linkedin.com/in/johnathan-frabetti-b04193207/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://www.youtube.com/@0xbunny" target="_blank">
-  <img align="center" src="https://img.shields.io/youtube/channel/views/UC3te_UR2TeWFL1OfaK2KFGg" alt="linkedin"/>
-</a>
-</p>
 <p align="center">
-  <img src="https://media.tenor.com/heBl6UHvYLQAAAAd/cyberchase-cyberspace.gif"alt=":v"/>
+  <img src="https://komarev.com/ghpvc/?username=D3athMayCry&color=yellow" alt="Profile views" /> 
 </p>
+
+<p align="center">
+  <em>Developer, Security Researcher, Reverse Engineer, and AppSec Enthusiast.</em>
+</p>
+
+---
+
+## 🌐 &nbsp;Social Links
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/johnathan-frabetti-hacking/" target="_blank">
+    <img src="https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.youtube.com/@0xor" target="_blank">
+    <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+</p>
+
+---
 
 ## 🛠 &nbsp;Tech Stack
 
-  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
-  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
-  ![ShellScript](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
+<p align="center">
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>&nbsp;
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>&nbsp;
+  <img src="https://img.shields.io/badge/Shell_Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script"/>&nbsp;
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>&nbsp;
+  <img src="https://img.shields.io/badge/Assembly-%23A0A0A0.svg?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembly"/>&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>&nbsp;
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.tenor.com/heBl6UHvYLQAAAAd/cyberchase-cyberspace.gif" alt="Cyberspace" width="400"/>
+</p>
