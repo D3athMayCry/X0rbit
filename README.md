@@ -8,7 +8,6 @@
   <em>Developer, Security Researcher, Reverse Engineer, and AppSec Enthusiast.</em>
 </p>
 
----
 
 ## 🌐 &nbsp;Connect with Me
 
@@ -24,23 +23,21 @@
   </a>
 </div>
 
----
 
 ## 📌 &nbsp;Featured Repositories
 
 <div align="center">
-  <a href="https://github.com/D3athMayCry/reverse-engineering-project" target="_blank">
-    <img src="https://img.shields.io/badge/-Reverse%20Engineering%20Project-%23000000?style=for-the-badge&logo=github&logoColor=white" alt="Reverse Engineering"/>
+  <a href="https://github.com/D3athMayCry/crud-baltaio" target="_blank">
+    <img src="https://img.shields.io/badge/-Reverse%20Engineering%20Project-%23000000?style=for-the-badge&logo=github&logoColor=white" alt="API CRUD"/>
   </a>
-  <a href="https://github.com/D3athMayCry/network-sniffer" target="_blank">
-    <img src="https://img.shields.io/badge/-Network%20Sniffer-%23000000?style=for-the-badge&logo=github&logoColor=white" alt="Network Sniffer"/>
+  <a href="https://github.com/D3athMayCry/Suckerpass" target="_blank">
+    <img src="https://img.shields.io/badge/-Network%20Sniffer-%23000000?style=for-the-badge&logo=github&logoColor=white" alt="Suckerpass"/>
   </a>
-  <a href="https://github.com/D3athMayCry/aisec-platform" target="_blank">
-    <img src="https://img.shields.io/badge/-AISec%20Platform-%23000000?style=for-the-badge&logo=github&logoColor=white" alt="AISec Platform"/>
+  <a href="https://github.com/D3athMayCry/AssaultCube-Aimbot" target="_blank">
+    <img src="https://img.shields.io/badge/-AISec%20Platform-%23000000?style=for-the-badge&logo=github&logoColor=white" alt="Aimbot ESP"/>
   </a>
 </div>
 
----
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -52,9 +49,3 @@
   <img src="https://img.shields.io/badge/Assembly-%23A0A0A0.svg?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembly"/>&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>&nbsp;
 </div>
-
----
-
-<p align="center">
-  <img src="https://media.tenor.com/heBl6UHvYLQAAAAd/cyberchase-cyberspace.gif" alt="Cyberspace" width="400"/>
-</p>
